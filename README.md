@@ -25,5 +25,5 @@ $ conda create -n cv_detection
 $ conda active cv_detection
 $ python --version
 $ python example.py
-''''
+'''
 
