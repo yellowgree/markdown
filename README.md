@@ -24,7 +24,7 @@ For example, the objects in the following imges were detected using [mmdetection
 ### Installation
 In a bash terminal, run the following commands (*Do NOT actually run these commands in your computer*):
 
-'''sh
+'''sh  
 $ sudo apt update  
 $ conda create -n cv_detection  
 $ conda active cv_detection  
