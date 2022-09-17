@@ -8,7 +8,7 @@ In order to build it, I will use opencv, deep learning libraries, such as [Tenso
 
 For example, the objects in the following imges were detected using [mmdetection](https://github.com/open-mmlab/mmdetection):
 
-![Uploading image.png…] ![Uploading image.png…] ![Uploading image.png…]
+![Uploading image.png…]() ![Uploading image.png…]() ![Uploading image.png…]()
 
 
 
